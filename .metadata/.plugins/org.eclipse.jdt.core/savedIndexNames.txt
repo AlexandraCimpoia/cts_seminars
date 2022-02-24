@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\alexa\Desktop\ASE\ANUL III\SEM II\CTS\CTS seminars\.metadata\.plugins\org.eclipse.jdt.core
+3301487172.index
+3371961022.index

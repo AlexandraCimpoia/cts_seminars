@@ -1,0 +1,17 @@
+package eu.ase.ro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int v[] = {0, 3, -2, 1, 0};
+		int frequency = 0;
+		
+		//Utils u;
+		//u.function(v, k)
+		frequency = Utils.frequencyOfMin(v);
+		System.out.println(frequency);
+
+	}
+
+}
