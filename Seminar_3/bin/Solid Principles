@@ -1,0 +1,5 @@
+s - single responsibility
+i - interface segregation
+o - open/closed
+	open for extension
+	closed for modification
