@@ -1,0 +1,6 @@
+Design Patterns: 
+	- creational (Singleton)
+	- structural (Adapter)
+	- behavioral (Observer)
+	
+	Singleton Lazy initialization -NOT THREAD SAFE
